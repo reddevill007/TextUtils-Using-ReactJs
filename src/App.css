@@ -1,0 +1,18 @@
+body {
+  background: rgb(235, 233, 233);
+}
+
+p {
+  color: #4c5e63;
+}
+
+h1, h2 {
+  color: #61dafb;
+}
+
+.preview {
+  border: 2px solid #61dafb;
+  padding: 10px;
+  width: fit-content;
+  color: #4c5e63;
+}
