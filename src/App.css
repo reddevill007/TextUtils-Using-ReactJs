@@ -1,8 +1,9 @@
 body {
-  background: rgb(235, 233, 233);
+  background: #ebe9e9;
 }
 
 p {
+  width: 100%;
   color: #4c5e63;
 }
 
